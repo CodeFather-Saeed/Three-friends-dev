@@ -27,3 +27,7 @@ ul li{
     display: inline;
     padding-right: 40px;
 }
+.pp{
+    text-align: center;
+    text-decoration: overline;
+}
