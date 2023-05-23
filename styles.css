@@ -30,5 +30,7 @@ ul li{
 }
 .pp{
     text-align: center;
+}
+.tt{
     text-decoration: overline;
 }
