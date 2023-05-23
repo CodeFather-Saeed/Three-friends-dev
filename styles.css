@@ -1,10 +1,11 @@
 header{
-    text-align: center;
-    height: 250px;
+    text-align: left;
+    padding: 67px 20px 20px 100px;
+    height: 150px;
     background-image: url("/Assets/Saeed.jpg");
     background-size: 25%;
     background-repeat: no-repeat;
-    background-position: 50% 60%;
+    background-position: 70% 50%;
     background-color: lightblue;
     border-radius: 5px;
     box-shadow: 8px 8px 10px grey;
